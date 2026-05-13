@@ -5,7 +5,7 @@ import mpegts from "mpegts.js";
 import { parseM3U, getProxyUrl, type Channel } from "@/lib/playlist";
 import { Loader2, ArrowLeft, ExternalLink, RotateCcw, Copy, AlertTriangle } from "lucide-react";
 
-const PLAYLIST_URL = "https://m3u-tvb.pages.dev/ixp.m3u";
+const PLAYLIST_URL = "https://rkdyiptv.pages.dev/Playlist/Global.m3u";
 
 // Module-level cache so navigating back and forth doesn't re-fetch
 let cachedChannels: Channel[] | null = null;
