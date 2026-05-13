@@ -5,7 +5,7 @@ import { ChannelCard } from "@/components/ChannelCard";
 import { StreamPlayer } from "@/components/StreamPlayer";
 import { parseM3U, type Channel } from "@/lib/playlist";
 
-const PLAYLIST_URL = "https://rkdyiptv.pages.dev/Playlist/Global.m3u";
+const PLAYLIST_URL = "https://raw.githubusercontent.com/sportlive18/Star-Share-m3u-Playlist/refs/heads/main/Sayan.m3u";
 const PAGE_SIZE = 24;
 
 /* ─── helpers ──────────────────────────────────────────────── */
