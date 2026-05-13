@@ -301,11 +301,11 @@ const Index = () => {
                 </span>
               </div>
               <h2 className="text-xl md:text-5xl font-black tracking-tighter leading-none mb-1 md:mb-3">
-                EVERY MATCH.{" "}
+                EVERY CHANNEL.{" "}
                 <span className="text-red-500">EVERY LANGUAGE.</span>
               </h2>
               <p className="hidden md:block text-neutral-400 text-[11px] md:text-sm font-medium max-w-md">
-                Star Sports, Willow &amp; official feeds in Hindi, English, Tamil,
+                Official feeds in Hindi, English, Tamil,
                 Telugu, Kannada, Malayalam, Bengali, Punjabi, Marathi, Gujarati and
                 more — in HD and 4K.
               </p>
